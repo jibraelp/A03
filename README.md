@@ -20,6 +20,8 @@ To open a project:
   1) From the welcome screen, click "Open" and then select the folder with your application in the dialog that opens.
 
 
+
+
 PART 2: Glossary
 
 Branch: A branch is a parallel version of a repository. It is contained within the repository, but does not affect the primary or main branch.
